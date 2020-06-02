@@ -2,6 +2,6 @@
 
 ## Charts of your favourite artists in the music industry, Africa.
 
-### Charts of your favourite music, Africa.
+#### Charts of your favourite music, Africa.
 
-#### We have it all.
+###### We have it all.
